@@ -1,0 +1,1 @@
+web: gunicorn whale.wsgi --log-file -
